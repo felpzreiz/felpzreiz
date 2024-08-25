@@ -4,8 +4,6 @@ import Desenvolvedor from "felpzreiz";
 class SobreMim extends Desenvolvedor {
   nome = "Felipe Reis";
 
-  area = "Desenvolvimento Front-end";
-
   estudando = "Ciência de dados" + " " + "Desenvolvimento de Software"
 
   faculdade = "Banco de Dados - Fatec SJC";
