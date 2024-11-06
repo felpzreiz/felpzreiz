@@ -1,7 +1,7 @@
 ```js
 import Desenvolvedor from "felpzreiz";
 
-class SobreMim extends Desenvolvedor {
+class SobreMim extends DataAnalyst {
   nome = "Felipe Reis";
 
   estudando = "Ciência de dados" + " " + "Desenvolvimento de Software"
@@ -18,7 +18,7 @@ class SobreMim extends Desenvolvedor {
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=felpzreiz&color=161b22&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Atualmente estudo no curso de Banco de Dados da Fatec São José dos Campos. Desenvolvo majoritariamente em <b><i>FrontEnd</i></b>, e tenho me aprofundado em outras áreas de TI, como <b><i>Ciência de Dados</i></b> e <b><i>Engenharia de Software</i></b>.</p>
+<p>Atualmente estudo no curso de Banco de Dados da Fatec São José dos Campos e sou estagiário de Análise de Dados na Quero Educação. Tenho me aprofundado em outras áreas de <b><i>Ciência de Dados</i></b> e <b><i>Engenharia de Software</i></b>.</p>
 
 ### Tecnologias<br>
 <div align = "center">
