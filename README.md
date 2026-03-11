@@ -1,14 +1,25 @@
-```js
-import Desenvolvedor from "felpzreiz";
-
-class SobreMim extends DataAnalyst {
+```py
+class SobreMim {
   nome = "Felipe Reis";
 
-  estudando = "Ciência de dados" + " " + "Análise de Dados"
+  role = "Data Analyst";
+
+  stack = {
+    linguagens: ["Python", "SQL"],
+    bigData: ["PySpark"],
+    analytics: ["Pandas", "NumPy", "Matplotlib"],
+    bi: ["PowerBI", "Metabase"],
+  };
+
+  estudando = [
+    "Analytics Engineering",
+    "Data Engineering",
+    "Modelagem Estatística",
+  ];
 
   faculdade = "Banco de Dados - Fatec SJC";
 
-  local = "São José dos Campos, BR";
+  local = "São José dos Campos - SP, Brasil";
 }
 ```
 
